@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">B.Tech CSE Student | MERN Stack Learner | Future Software Developer</h3>
+<h3 align="center">B.Tech CSE Student | MERN Stack Learner | Future Software Developer | Aspiring Software Developer skilled in Java with expertise in Full-Stack Web Development. Passionate  about Technology, innovation, and continuous learning</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=viveksingh2207&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
